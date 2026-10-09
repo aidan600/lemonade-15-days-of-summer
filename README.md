@@ -8,9 +8,11 @@ A small competitive lemonade-stand game.
 
 Desktop browser recommended.
 
-Browser version: v0.13.4.4
+Browser version: v0.13.4.5
 
 ## Windows
+
+Windows version: v0.13.4.4
 
 Prefer a standalone build?
 
