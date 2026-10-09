@@ -8,13 +8,13 @@ A small competitive lemonade-stand game.
 
 Desktop browser recommended.
 
-Browser version: v0.13.4.3
+Browser version: v0.13.4.4
 
 ## Windows
 
 Prefer a standalone build?
 
-**[DOWNLOAD FOR WINDOWS — v0.13.4.3](https://github.com/aidan600/lemonade-15-days-of-summer/releases/latest)**
+**[DOWNLOAD FOR WINDOWS — v0.13.4.4](https://github.com/aidan600/lemonade-15-days-of-summer/releases/latest)**
 
 Extract the Windows ZIP and double-click **Lemonade.exe**.
 No Godot installation is required.
