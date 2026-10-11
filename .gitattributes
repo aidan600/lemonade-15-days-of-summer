@@ -1,3 +1,6 @@
 
 # Versioned release assets must retain the tested bytes on every platform.
 docs/v0.14.3/** -text
+
+# Keep this verified Web artifact byte-for-byte, including its license.
+docs/v0.14.4/* -text
