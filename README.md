@@ -1,27 +1,18 @@
-# Lemonade: 15 Days of Summer
+# Lemonade: 12 Days of Summer
 
-A small competitive lemonade-stand game.
+**[PLAY IN BROWSER — V0.14.1](https://aidan600.github.io/lemonade-15-days-of-summer/)**
 
-## Play
+Choose what to sell, set prices, and compete against Sally over twelve days.
+Shop after Days 4 and 8, then face the next event. Desktop browser recommended.
 
-**[PLAY IN BROWSER](https://aidan600.github.io/lemonade-15-days-of-summer/)**
+**[DOWNLOAD FOR WINDOWS — V0.14.1](https://github.com/aidan600/lemonade-15-days-of-summer/releases/tag/v0.14.1)**
 
-Desktop browser recommended.
+Extract the ZIP and run `Lemonade-12-Days-V0.14.1.exe`. No Godot installation required.
 
-Browser version: v0.13.4.5
+[V0.14.1 source branch](https://github.com/aidan600/lemonade-30-days-of-summer/tree/codex/v014-integration).
 
-## Windows
+The repository and Pages URL keep their existing names so old links continue to work.
+Pages publishes `/docs` from `codex/v0141-publication`. Both repositories' `main`
+branches are preserved for review.
 
-Windows version: v0.13.4.4
-
-Prefer a standalone build?
-
-**[DOWNLOAD FOR WINDOWS — v0.13.4.4](https://github.com/aidan600/lemonade-15-days-of-summer/releases/latest)**
-
-Extract the Windows ZIP and double-click **Lemonade.exe**.
-No Godot installation is required.
-
-## About
-
-Compete against Sally over a 15-day summer. Choose what to sell, set prices,
-build neighborhood Buzz, and save toward a summer goal.
+[Historical 15-day V0.13.4.5](https://aidan600.github.io/lemonade-15-days-of-summer/history/v0.13.4.5/).
