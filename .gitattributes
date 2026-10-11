@@ -1,0 +1,3 @@
+
+# Versioned release assets must retain the tested bytes on every platform.
+docs/v0.14.3/** -text
