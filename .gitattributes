@@ -4,3 +4,6 @@ docs/v0.14.3/** -text
 
 # Keep this verified Web artifact byte-for-byte, including its license.
 docs/v0.14.4/* -text
+
+# Preserve the exact verified V0.14.5 Web payload, including license bytes.
+docs/v0.14.5/** -text
