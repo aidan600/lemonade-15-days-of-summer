@@ -1,0 +1,72 @@
+{
+  "version": "0.14.4",
+  "public_url": "https://aidan600.github.io/lemonade-15-days-of-summer/v0.14.4/",
+  "web_files": {
+    "GODOT_LICENSE.txt": {
+      "bytes": 102487,
+      "sha256": "7ae231c4b877ac30c39c2a95d0f3ad7548dfaa917c79ad8e4f43c151ebe2312a"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 5458,
+      "sha256": "d2acec952dfceabfa20c0525c9995b483575feaac92bade8cc8d000e76f9998d"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.js": {
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    "index.pck": {
+      "bytes": 567348,
+      "sha256": "06230f0457085c86f6f9aa212da54646371751b707db9499ecef74995fba0f9f"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  },
+  "preserved_history": {
+    "v0.14.3": {
+      "GODOT_LICENSE.txt": "7ae231c4b877ac30c39c2a95d0f3ad7548dfaa917c79ad8e4f43c151ebe2312a",
+      "index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+      "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "index.html": "63191d3962f04bc8e11e71a5429e45857d33a211e1e2a2bbd7f89c81a4c5fbb7",
+      "index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+      "index.js": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "index.pck": "53987156d1b9afde057c59eff7626aace14cd108fd52da03fa9f5b5c422e1f8f",
+      "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "v0.14.1": {
+      "index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+      "index.audio.position.worklet.js": "0fba97ee348ded832bdb5eb295a4cec212174938c0c92f28b93962b47a71a2ea",
+      "index.audio.worklet.js": "aeac7d92d70ead1cd09b4573ee43cd6660f85915852650dfc2a80c9de94145ac",
+      "index.html": "779414eccc68fd7fb0d88af0a9f099bbe10253db7b3c1892676e2a854cd9d926",
+      "index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+      "index.js": "feda62cd7b86a9939b72aaf9c1bc812b4967637a5234e2b371dd938074cabb73",
+      "index.pck": "e14576e6f44f7efd0f11b3581969e738ef74d8b74d71eae8515488a53449c613",
+      "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  },
+  "economic_changes": false
+}
