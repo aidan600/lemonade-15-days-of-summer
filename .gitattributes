@@ -7,3 +7,6 @@ docs/v0.14.4/* -text
 
 # Preserve the exact verified V0.14.5 Web payload, including license bytes.
 docs/v0.14.5/** -text
+
+# Preserve tested V0.14.6 bytes, including the engine license.
+docs/v0.14.6/** -text
