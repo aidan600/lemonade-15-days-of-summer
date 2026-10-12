@@ -10,3 +10,6 @@ docs/v0.14.5/** -text
 
 # Preserve tested V0.14.6 bytes, including the engine license.
 docs/v0.14.6/** -text
+
+# Preserve tested V0.14.7 bytes, including the engine license.
+docs/v0.14.7/** -text
