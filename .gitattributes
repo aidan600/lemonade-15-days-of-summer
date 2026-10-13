@@ -13,3 +13,6 @@ docs/v0.14.6/** -text
 
 # Preserve tested V0.14.7 bytes, including the engine license.
 docs/v0.14.7/** -text
+
+# Preserve the exact tested V0.14.9 production payload.
+docs/v0.14.9/** -text
