@@ -9,7 +9,11 @@ shop and returning Regulars, and reliable forecasts. Both shop breaks occur
 before Days 5 and 9. Built with Godot 4.7.2 stable, Compatibility renderer.
 
 [Versioned V0.14.9](https://aidan600.github.io/lemonade-15-days-of-summer/v0.14.9/).
-[Released source](https://github.com/aidan600/lemonade-30-days-of-summer/tree/v0.14.9).
+[Released source (repository access required)](https://github.com/aidan600/lemonade-30-days-of-summer/tree/v0.14.9).
+
+[Windows download](https://github.com/aidan600/lemonade-15-days-of-summer/releases/download/v0.14.9/Lemonade-V0.14.9-windows.zip) ·
+[Web download](https://github.com/aidan600/lemonade-15-days-of-summer/releases/download/v0.14.9/Lemonade-V0.14.9-web.zip) ·
+[Release and package hashes](https://github.com/aidan600/lemonade-15-days-of-summer/releases/tag/v0.14.9).
 
 [Historical V0.14.7](https://aidan600.github.io/lemonade-15-days-of-summer/v0.14.7/).
 [Historical V0.14.6](https://aidan600.github.io/lemonade-15-days-of-summer/v0.14.6/).
