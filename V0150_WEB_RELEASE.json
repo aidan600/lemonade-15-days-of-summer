@@ -62,5 +62,33 @@
     "docs/v0.14.7": "bd5401b7efbef2d98b0e5f000f0b2d9558d9ccd5",
     "docs/v0.14.9": "9ce01be8db2cf4dd7f74cdd971598204b6c51a9c"
   },
-  "status": "versioned candidate; root remains V0.14.9 until live verification"
+  "status": "versioned live game verified; promote current redirect to V0.15.0",
+  "payload_publication_pr": "https://github.com/aidan600/lemonade-15-days-of-summer/pull/1",
+  "payload_merge_commit": "5e93538f4b019f949f6ca7036567a32e6a8ff032",
+  "current_redirect": "./v0.15.0/",
+  "versioned_live_verification": {
+    "completed_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "asset_hashes_verified": 10,
+    "browser_errors": [],
+    "network_errors": [],
+    "webgl": {
+      "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4090 (0x00002684) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    "verified_at": "2026-10-19T22:46:48.873002+00:00"
+  },
+  "downloads": "https://github.com/aidan600/lemonade-15-days-of-summer/releases/tag/v0.15.0"
 }
