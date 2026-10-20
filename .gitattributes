@@ -22,3 +22,6 @@ docs/v0.15.0/** -text
 
 # Preserve the exact verified V0.15.1 production payload.
 docs/v0.15.1/** -text
+
+# Preserve the exact verified V0.15.2 production payload.
+docs/v0.15.2/** -text
