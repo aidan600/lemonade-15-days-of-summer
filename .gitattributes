@@ -19,3 +19,6 @@ docs/v0.14.9/** -text
 
 # Preserve the exact tested V0.15.0 production payload.
 docs/v0.15.0/** -text
+
+# Preserve the exact verified V0.15.1 production payload.
+docs/v0.15.1/** -text
