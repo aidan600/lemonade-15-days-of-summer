@@ -1,0 +1,273 @@
+{
+  "version": "0.15.3",
+  "title": "Lemonade: 12 Days of Summer",
+  "source_repository": "aidan600/lemonade-30-days-of-summer",
+  "source_commit": "55d0ae688a9c453bed7710e5a7eb615195b27525",
+  "approved_implementation": "662fcaf53b598eca4a2aba2517746d76a1fb780a",
+  "source_pr": "https://github.com/aidan600/lemonade-30-days-of-summer/pull/10",
+  "godot": "4.7.2.stable.official.ed1daf0bf",
+  "renderer": "gl_compatibility",
+  "fps_cap": 60,
+  "hosting_branch": "codex/v0141-publication",
+  "hosting_directory": "docs",
+  "url": "https://aidan600.github.io/lemonade-15-days-of-summer/v0.15.3/",
+  "production_files": {
+    "GODOT_LICENSE.txt": {
+      "bytes": 102487,
+      "sha256": "7ae231c4b877ac30c39c2a95d0f3ad7548dfaa917c79ad8e4f43c151ebe2312a"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 5460,
+      "sha256": "457884128848ebd4f746be983a1d71501629cc4176577b0b186bb1908ea34305"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.js": {
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    "index.pck": {
+      "bytes": 18736532,
+      "sha256": "74cdc2c010bc4271e766cfc871049a6934e5cd5b11cead9579b77f693f607435"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "README.txt": {
+      "bytes": 329,
+      "sha256": "e02cbdb3b5836ea99a3193e4e023ea2b0bafdadbffe96f036ff7fee106f46592"
+    }
+  },
+  "previous_versions": {
+    "docs/history": "332dd4761f32c03df2991a7d62bd08d6643d31c1",
+    "docs/v0.14.1": "3a33ff648b35b8a5589e3ebd8620b9d3d61080bb",
+    "docs/v0.14.3": "be35ce6c73c88a515491a06a25bb58d338caf1c6",
+    "docs/v0.14.4": "6469a2101076ccc48097901db001ad961a00bdd6",
+    "docs/v0.14.5": "530ccf6bab3c6f527cfd3806aeafdfb821796c50",
+    "docs/v0.14.6": "a32f050ce60baf7452dd15cc5df998105b89e635",
+    "docs/v0.14.7": "bd5401b7efbef2d98b0e5f000f0b2d9558d9ccd5",
+    "docs/v0.14.9": "9ce01be8db2cf4dd7f74cdd971598204b6c51a9c",
+    "docs/v0.15.0": "ed195c820d493b8b8b7da33a3c19864cea67624e",
+    "docs/v0.15.1": "766cbbad99938b80a32ec1a686034f71f01f4789",
+    "docs/v0.15.2": "8ba59de4ea0cfffb7d4af919f215bd9a49e168a4"
+  },
+  "historical_root_payloads": {
+    "docs/.nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docs/index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+    "docs/index.audio.position.worklet.js": "0fba97ee348ded832bdb5eb295a4cec212174938c0c92f28b93962b47a71a2ea",
+    "docs/index.audio.worklet.js": "aeac7d92d70ead1cd09b4573ee43cd6660f85915852650dfc2a80c9de94145ac",
+    "docs/index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+    "docs/index.js": "feda62cd7b86a9939b72aaf9c1bc812b4967637a5234e2b371dd938074cabb73",
+    "docs/index.pck": "b3b147a707767a650f58e115f825526580931fae37f8a0201445e6f2ddca23e7",
+    "docs/index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "docs/index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  },
+  "pre_candidate_defaults": {
+    "docs/index.html": "9744a8c84f88b59524e4d07bf3b9433b72e567eaaf00a7fbc377b3b59abfb8c9",
+    "README.md": "cd3043c349f068fb818e2054e8833d376f3a0c80d1aef3daeed5056236206086"
+  },
+  "status": "fresh local release verified; versioned candidate awaits live verification",
+  "current_redirect": "./v0.15.2/",
+  "approved_source_parity": {
+    "windows": {
+      "days": 36,
+      "summers": 3,
+      "checks": 92086,
+      "exact_approved_parity": true,
+      "raw_discrete_rng_relationships_and_economics_equal": true,
+      "digest": "c927762ebaec5d71708978a5c1a41bde7a7c2b6d1c1bc6be5cdcc1255fec97c3",
+      "approved_artifact": "C:\\tmp\\lemonade-v0153-review\\native-economics\\desktop-interactive.json",
+      "errors": []
+    },
+    "web": {
+      "days": 36,
+      "summers": 3,
+      "checks": 92423,
+      "exact_approved_parity": true,
+      "raw_discrete_rng_relationships_and_economics_equal": true,
+      "digest": "c927762ebaec5d71708978a5c1a41bde7a7c2b6d1c1bc6be5cdcc1255fec97c3",
+      "approved_artifact": "C:\\tmp\\lemonade-v0153-review\\web-economics\\web-interactive.json",
+      "errors": []
+    }
+  },
+  "onboarding": {
+    "windows": {
+      "phases": [
+        {
+          "checks": 164,
+          "complete": true,
+          "failures": [],
+          "phase": "fresh",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 20,
+          "complete": true,
+          "failures": [],
+          "phase": "restart-continue",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 20,
+          "complete": true,
+          "failures": [],
+          "phase": "permanent",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 15,
+          "complete": true,
+          "failures": [],
+          "phase": "restart-permanent",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "corrupt",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 7
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "missing",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "unavailable",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        },
+        {
+          "checks": 116,
+          "complete": true,
+          "failures": [],
+          "phase": "speed-controls",
+          "platform": "Windows",
+          "expected_corrupt_file_diagnostics": 0
+        }
+      ],
+      "checks": 389,
+      "errors": [],
+      "expected_corrupt_file_diagnostics": 7
+    },
+    "web": {
+      "phases": [
+        {
+          "checks": 164,
+          "complete": true,
+          "failures": [],
+          "phase": "fresh",
+          "platform": "Web"
+        },
+        {
+          "checks": 20,
+          "complete": true,
+          "failures": [],
+          "phase": "restart-continue",
+          "platform": "Web"
+        },
+        {
+          "checks": 20,
+          "complete": true,
+          "failures": [],
+          "phase": "permanent",
+          "platform": "Web"
+        },
+        {
+          "checks": 15,
+          "complete": true,
+          "failures": [],
+          "phase": "restart-permanent",
+          "platform": "Web"
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "corrupt",
+          "platform": "Web"
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "missing",
+          "platform": "Web"
+        },
+        {
+          "checks": 18,
+          "complete": true,
+          "failures": [],
+          "phase": "unavailable",
+          "platform": "Web"
+        },
+        {
+          "checks": 116,
+          "complete": true,
+          "failures": [],
+          "phase": "speed-controls",
+          "platform": "Web"
+        }
+      ],
+      "checks": 389,
+      "errors": [],
+      "expected_corrupt_file_diagnostics": [
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)",
+        "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+        "   at: _parse (core/io/config_file.cpp:293)"
+      ]
+    }
+  },
+  "package_hashes": {
+    "Lemonade-V0.15.3-windows.zip": {
+      "bytes": 56645038,
+      "sha256": "01dc97af62dd398d77705797a46b74d28eefbb660f4dda09d4ee4125ea5e5c5c"
+    },
+    "Lemonade-V0.15.3-web.zip": {
+      "bytes": 28854138,
+      "sha256": "d2ea44329961af55419f302a9f05bf675ba493f90d81a01015d436cace8e56e9"
+    }
+  }
+}
