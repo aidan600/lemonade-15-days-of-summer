@@ -85,8 +85,8 @@
     "docs/index.html": "9744a8c84f88b59524e4d07bf3b9433b72e567eaaf00a7fbc377b3b59abfb8c9",
     "README.md": "cd3043c349f068fb818e2054e8833d376f3a0c80d1aef3daeed5056236206086"
   },
-  "status": "fresh local release verified; versioned candidate awaits live verification",
-  "current_redirect": "./v0.15.2/",
+  "status": "versioned live game verified; default promotion prepared",
+  "current_redirect": "./v0.15.3/",
   "approved_source_parity": {
     "windows": {
       "days": 36,
@@ -269,5 +269,34 @@
       "bytes": 28854138,
       "sha256": "d2ea44329961af55419f302a9f05bf675ba493f90d81a01015d436cace8e56e9"
     }
+  },
+  "payload_publication_pr": "https://github.com/aidan600/lemonade-15-days-of-summer/pull/7",
+  "payload_merge_commit": "45b6187de6aba3a75f37eccb9b4cc3379b014538",
+  "downloads": "https://github.com/aidan600/lemonade-15-days-of-summer/releases/tag/v0.15.3",
+  "versioned_live_verification": {
+    "completed_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "asset_hashes_verified": 11,
+    "browser_errors": [],
+    "network_errors": [],
+    "webgl": {
+      "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4090 (0x00002684) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    "web_reload_empty": true,
+    "strategy_preference_persistence": true,
+    "verified_at": "2026-10-21T02:47:04.446253+00:00"
   }
 }
