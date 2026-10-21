@@ -28,3 +28,6 @@ docs/v0.15.2/** -text
 
 # Preserve verified V0.15.3 production bytes.
 docs/v0.15.3/** -text
+
+# Preserve verified V0.15.4 production bytes.
+docs/v0.15.4/** -text

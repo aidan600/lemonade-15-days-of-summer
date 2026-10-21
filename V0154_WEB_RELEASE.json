@@ -1,0 +1,537 @@
+{
+  "version": "0.15.4",
+  "title": "Lemonade: 12 Days of Summer",
+  "source_repository": "aidan600/lemonade-30-days-of-summer",
+  "source_commit": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96",
+  "source_prs": [
+    "https://github.com/aidan600/lemonade-30-days-of-summer/pull/11",
+    "https://github.com/aidan600/lemonade-30-days-of-summer/pull/12"
+  ],
+  "source_pr_merges": {
+    "11": "1744e48f2bd4f90e433ffe04e55cc2f8699d4d95",
+    "12": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96"
+  },
+  "godot": "4.7.2.stable.official.ed1daf0bf",
+  "renderer": "gl_compatibility",
+  "fps_cap": 60,
+  "hosting_branch": "codex/v0141-publication",
+  "hosting_directory": "docs",
+  "url": "https://aidan600.github.io/lemonade-15-days-of-summer/v0.15.4/",
+  "production_files": {
+    "GODOT_LICENSE.txt": {
+      "bytes": 102487,
+      "sha256": "7ae231c4b877ac30c39c2a95d0f3ad7548dfaa917c79ad8e4f43c151ebe2312a"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.html": {
+      "bytes": 5460,
+      "sha256": "81e69b142f9f5dc2d22d879157571b094f289d468e23d951281ac801c2d3002e"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.js": {
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    "index.pck": {
+      "bytes": 18748648,
+      "sha256": "92ca832322cd30a07bedd31296f43419300622406f0774c9284e9e0850d47e17"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    "index.wasm": {
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "README.txt": {
+      "bytes": 329,
+      "sha256": "8646c5a751b1d8dd8680a8d74ba09a43aad9a9cddf3e3119a0447ec824832288"
+    }
+  },
+  "previous_versions": {
+    "docs/history": "332dd4761f32c03df2991a7d62bd08d6643d31c1",
+    "docs/v0.14.1": "3a33ff648b35b8a5589e3ebd8620b9d3d61080bb",
+    "docs/v0.14.3": "be35ce6c73c88a515491a06a25bb58d338caf1c6",
+    "docs/v0.14.4": "6469a2101076ccc48097901db001ad961a00bdd6",
+    "docs/v0.14.5": "530ccf6bab3c6f527cfd3806aeafdfb821796c50",
+    "docs/v0.14.6": "a32f050ce60baf7452dd15cc5df998105b89e635",
+    "docs/v0.14.7": "bd5401b7efbef2d98b0e5f000f0b2d9558d9ccd5",
+    "docs/v0.14.9": "9ce01be8db2cf4dd7f74cdd971598204b6c51a9c",
+    "docs/v0.15.0": "ed195c820d493b8b8b7da33a3c19864cea67624e",
+    "docs/v0.15.1": "766cbbad99938b80a32ec1a686034f71f01f4789",
+    "docs/v0.15.2": "8ba59de4ea0cfffb7d4af919f215bd9a49e168a4",
+    "docs/v0.15.3": "4ba89bff7ccf6e7476991d3b36afaf806f00cebc"
+  },
+  "historical_root_payloads": {
+    "docs/.nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docs/index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+    "docs/index.audio.position.worklet.js": "0fba97ee348ded832bdb5eb295a4cec212174938c0c92f28b93962b47a71a2ea",
+    "docs/index.audio.worklet.js": "aeac7d92d70ead1cd09b4573ee43cd6660f85915852650dfc2a80c9de94145ac",
+    "docs/index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+    "docs/index.js": "feda62cd7b86a9939b72aaf9c1bc812b4967637a5234e2b371dd938074cabb73",
+    "docs/index.pck": "b3b147a707767a650f58e115f825526580931fae37f8a0201445e6f2ddca23e7",
+    "docs/index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+    "docs/index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  },
+  "pre_candidate_defaults": {
+    "docs/index.html": "7594f8ee318d50a9a35615da0bdd72b0b7d2e9d64f51be4be5ea350fb47a5f87",
+    "README.md": "63448f7feb4385ff1fbafff9798f37f9740f92c6f344a1338b7330d83456dbc4"
+  },
+  "pre_candidate_default_git_blobs": {
+    "docs/index.html": "b631dc54b871fe9704eb87e89ad2b15f2a46bd8874cbd3c34538b8f1c651c063",
+    "README.md": "5f7cc161833d04709dcc01719acc76ed9141348f1fcad8b0ddbcea288cc8767e"
+  },
+  "status": "fresh local release verified; versioned candidate awaits live verification",
+  "current_redirect": "./v0.15.3/",
+  "local_verification": {
+    "passed": true,
+    "version": "0.15.4",
+    "source_commit": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96",
+    "approved_implementation": "b44b02666046c7644f19a721387eff1608ad4598",
+    "source_tree_exact_approved": true,
+    "source_worktree_clean": true,
+    "engine": "4.7.2.stable.official.ed1daf0bf",
+    "renderer": "Compatibility",
+    "contract_groups": 15,
+    "contracts": [
+      {
+        "name": "test_sales_period",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_day",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_session",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_reliable_weather",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_same_product_competition_v013",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v014_objectives",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0147_copy",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0152_empty_plan",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_summer_records",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_street_rules_reconcile",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0149_wide_sibling",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_transition_input_v0123",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0154_loyalty",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0154_pacing_weather",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      },
+      {
+        "name": "test_v0154_starting_lookup",
+        "exit": 0,
+        "errors": [],
+        "passed": true
+      }
+    ],
+    "approved_intro_sha256_lf": "2988f04c3e2d03b7c4ef8bcaeaf08e447d5e0c438d571f1868d6e548aa23b4e6",
+    "ui_copy_audit": {
+      "checks": 12,
+      "failures": [],
+      "observed": {
+        "help": "BEAT SALLY\nEarn more profit than Sally this summer.\nPLANNING\nDifferent people prefer different lemonades, and every summer is a little different.\n\n\u2013 Start with 3 pitchers; a Larger Stand adds an optional fourth.\n\u2013 Use + and - to choose what to make.\n\u2013 Each pitcher makes 8 cups.\n\u2013 You can make more than one pitcher of the same lemonade.\n\u2013 FOR SALE is how many cups can be sold.\n\u2013 IF ALL SELL is the profit from that lemonade if every cup sells.\n\u2013 Open the Stand buys your supplies and starts the day.\nPRICES\n\u2013 Change prices in 25\u00a2 steps.\n\u2013 Prices carry over to tomorrow.\n\u2013 Sally\u2019s price yesterday is worth watching when you sell the same lemonade.\nNEIGHBORHOOD BUZZ\n\u2013 Buzz is shared interest in a lemonade.\n\u2013 More Buzz means more customers may choose it.\n\u2013 Sales build Buzz slowly.\n\u2013 Free Samples and Posters build it faster.\n\u2013 There is only so much attention to go around, so another lemonade may cool.\n\u2013 Buzz helps either stand selling that lemonade.\nREGULARS\n\u2013 Regulars make customers a little more likely to notice that lemonade at your stand.\n\u2013 Two paid purchases of a lemonade can build a real resident relationship.\r\n\u2013 Repeated missed favorites or purchases from a rival can lose or transfer it.\n\u2013 Loyalty Cards bring extra visits to the stand that earned its Regulars. These returners seek their favorite at its posted price and may leave without buying.\n\u2013 Loyalty Cards also make established Regulars harder for Sally to win over. Cards allow one more missed favorite or rival purchase before a Regular leaves or changes stands.\nBONUS CARDS\nYou can play one bonus card each morning, or none.\n\n\u2013 Free Samples \u2014 Give away 4 cups, or 2 with a Sample Tray. Helps one lemonade sell and builds Buzz.\n\u2013 Posters \u2014 choose at the start or buy at a shop break, then activate free for 2 days and give it a big Buzz boost.\n\u2013 Little Brother \u2014 Helps you sell more lemonade today, but drinks 1\u20134 cups.\n\nPosters and Little Brother can each be used once per summer.\nFree Samples are repeatable.\nYou can play another card on Posters\u2019 second day.\nYour starting choice determines whether you have Little Brother. Sally independently chooses Little Sister, Sample Tray or Posters.\nSUMMER GOAL\n\u2013 After Day 12, spend your cash at the Toy Store whether or not you beat Sally.\n\u2013 You can buy anything you can afford.\n\u2013 Decide whether beating Sally or saving for your goal matters more.\nPROFIT & CASH\n\u2013 Profit is what your stand earned after its operating costs.\n\u2013 The Summer Race uses profit.\n\u2013 Cash is the money you have now and can spend at the Toy Store.\n\u2013 Open the Stand automatically buys the supplies your plan needs.\n\u2013 Unused supplies carry over.\nACTS & SHOP\nThree four-day acts. Events are announced for Days 5\u20138 and 9\u201312. After Days 4 and 8, read the upcoming event, then buy one upgrade or save. Larger Stand $5 adds an optional fourth pitcher; Sample Tray $10 reduces samples to 2; Posters $10 prepays one two-day activation. Choose one free starting advantage before Day 1. Both stands keep $18. Later purchases keep the same production reserve and pay from real cash. Shop spending reduces Summer profit.\nWEATHER\nDay 1 is Cloudy or Sunny. Forecasts aren\u2019t perfect. Better weather usually means more customers, and morning and afternoon can turn out differently.\nSALLY\nSally plays by the same rules you do.\nShe watches what sells and changes what she stocks and charges.\n\n\u2013 Laid-back usually keeps her mix and prices for two days. Funding, new events or strong sales evidence can prompt an earlier change.\n\u2013 Competitive balances her business with winning and defending productive positions.\n\u2013 Cutthroat may sacrifice profit to beat you.\n  Backing off may not stop her.\nSELLOUTS\n\u2013 Early: before 40% of the day\u2019s traffic has passed.\n\u2013 Midday: 40\u201370%.\n\u2013 Late: after 70%.\n\nTiming tells you when you ran out, not how many extra cups you could have sold.\nCUSTOMER COMMENTS\nA few customers leave comments. They can be useful, but they don\u2019t represent everyone.\nLEDGER\nThe Ledger is where you can review what happened: summer profit, daily profit, sales, Buzz, and past decisions.\n",
+        "ledger": "YOUR LOYALTY CARDS \u00b7 4 extra return visits \u00b7 1 purchases",
+        "owned_equipment": "Regulars are considerably more likely to come back to your stand.",
+        "results": "Loyalty Cards \u00b7 4 extra return visits \u00b7 1 purchase",
+        "shop": "Regulars are considerably more likely to come back to your stand."
+      },
+      "passed": true,
+      "purchases": 1,
+      "visits": 4
+    },
+    "ui_sources_obsolete_discount_mentions": [],
+    "onboarding": {
+      "windows": {
+        "checks": 389,
+        "phases": [
+          {
+            "checks": 164,
+            "complete": true,
+            "failures": [],
+            "phase": "fresh",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 20,
+            "complete": true,
+            "failures": [],
+            "phase": "restart-continue",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 20,
+            "complete": true,
+            "failures": [],
+            "phase": "permanent",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 15,
+            "complete": true,
+            "failures": [],
+            "phase": "restart-permanent",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "corrupt",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 7
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "missing",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "unavailable",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          },
+          {
+            "checks": 116,
+            "complete": true,
+            "failures": [],
+            "phase": "speed-controls",
+            "platform": "Windows",
+            "expected_corrupt_file_diagnostics": 0
+          }
+        ],
+        "errors": [],
+        "expected_corrupt_file_diagnostics": 7
+      },
+      "web": {
+        "checks": 389,
+        "phases": [
+          {
+            "checks": 164,
+            "complete": true,
+            "failures": [],
+            "phase": "fresh",
+            "platform": "Web"
+          },
+          {
+            "checks": 20,
+            "complete": true,
+            "failures": [],
+            "phase": "restart-continue",
+            "platform": "Web"
+          },
+          {
+            "checks": 20,
+            "complete": true,
+            "failures": [],
+            "phase": "permanent",
+            "platform": "Web"
+          },
+          {
+            "checks": 15,
+            "complete": true,
+            "failures": [],
+            "phase": "restart-permanent",
+            "platform": "Web"
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "corrupt",
+            "platform": "Web"
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "missing",
+            "platform": "Web"
+          },
+          {
+            "checks": 18,
+            "complete": true,
+            "failures": [],
+            "phase": "unavailable",
+            "platform": "Web"
+          },
+          {
+            "checks": 116,
+            "complete": true,
+            "failures": [],
+            "phase": "speed-controls",
+            "platform": "Web"
+          }
+        ],
+        "errors": [],
+        "expected_corrupt_file_diagnostics": [
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)",
+          "ERROR: ConfigFile parse error at user://onboarding.cfg:2: Unexpected EOF while parsing simple tag.",
+          "   at: _parse (core/io/config_file.cpp:293)"
+        ]
+      }
+    },
+    "economics": {
+      "windows": {
+        "summers": 3,
+        "days": 36,
+        "checks": 6814,
+        "failures": [],
+        "entire_summers_exact_approved_platform_parity": true,
+        "approved_implementation_economic_digest": "d1528fc43950767048926124d5d7a2eb4576574b2842ed7b57da648b925e29fe",
+        "canonical_platform_summers_digest": "35974a83009d2b49e2d9f61556423a6ed2feb6e35031634ab500f04d0b306e8e"
+      },
+      "web": {
+        "summers": 3,
+        "days": 36,
+        "checks": 6814,
+        "failures": [],
+        "entire_summers_exact_approved_platform_parity": true,
+        "approved_implementation_economic_digest": "07e111eca086d7b6f6d5945c489c1f32c0cb67b456fc58f5fe118ff54f8de3f3",
+        "canonical_platform_summers_digest": "f1bcf6e22caca5d3a6e5fa896507b9a3754af7db5e526b181d9bec0c628a6488"
+      }
+    },
+    "native_web_exact_discrete_economics_rng_and_relationships": true,
+    "discrete_economic_digest": "836c32768b0922bde1e9dce6bed5118bf1177a9a03b09910637fc7e4a6c8fee7",
+    "resident_replay": {
+      "passed": true,
+      "days": 36,
+      "resident_snapshots": 4320,
+      "exact_discrete_leaves": 107423,
+      "continuous_leaves": 13464,
+      "absolute_tolerance": 1e-12,
+      "different_continuous_values": {
+        "resident.interest_roll": 72,
+        "momentum.buzz": 1,
+        "momentum.familiarity": 2
+      },
+      "raw_continuous_doubles_identical": true,
+      "maximum_absolute_differences": {
+        "resident.interest_roll": 9.992007221626409e-16,
+        "momentum.buzz": 9.947598300641403e-14,
+        "momentum.familiarity": 9.947598300641403e-14
+      },
+      "examples": {
+        "resident.interest_roll": {
+          "path": "LAID_BACK.day1.residents[13].interest_roll",
+          "native": 0.334632277488709,
+          "web": 0.334632277488708
+        },
+        "momentum.buzz": {
+          "path": "LAID_BACK.day10.momentum.buzz[2]",
+          "native": 28.5050626460318,
+          "web": 28.5050626460317
+        },
+        "momentum.familiarity": {
+          "path": "COMPETITIVE.day9.momentum.familiarity[0][0]",
+          "native": 12.9163568627813,
+          "web": 12.9163568627812
+        }
+      },
+      "native_replay_ms": 160.545,
+      "web_replay_ms": 244.2,
+      "accepted_state_proof": "Both replays first reproduced every accepted platform resident JSON hash and all accepted discrete economic outputs."
+    },
+    "resident_replay_checks": {
+      "windows": 994,
+      "web": 994
+    },
+    "floating_state_proof": "Raw resident and momentum double bits are exact. Native/Web JSON decimal printers differ in 75 continuous leaves by at most 1e-13; no game values were rounded or changed. Each native/Web replay first reproduced its accepted platform full-resident hash and exact economic fields.",
+    "windows_records_restart": {
+      "checks": 25,
+      "restored_summers": 3.0,
+      "passed": true,
+      "isolated_profile": "C:\\tmp\\lemonade-v0154-release-qa\\native\\profile"
+    },
+    "local_production_web": {
+      "success": true,
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "payload_hash_checks": 11,
+      "web_records_reset": true,
+      "strategy_preference_persistence": true,
+      "errors": [],
+      "network_errors": [],
+      "report": "C:\\tmp\\lemonade-v0154-release\\qa\\local-production\\production-acceptance.json"
+    },
+    "production_package": {
+      "version": "0.15.4",
+      "source_commit": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96",
+      "passed": true,
+      "manifest_entries": 18,
+      "zip_payload_bytes_match": true,
+      "zip_integrity": true,
+      "monitor_matches_approved_source": true,
+      "web_server_matches_approved_source": true,
+      "release_labels_correct": true,
+      "windows_helpers_present": true,
+      "powershell_syntax": {
+        "Start-Safe.ps1": {
+          "passed": true,
+          "parse_errors": 0
+        },
+        "monitor_windows_build.ps1": {
+          "passed": true,
+          "parse_errors": 0
+        }
+      },
+      "builder_art_and_resource_exclusion_checks_preserved": true,
+      "scope": "Read-only file/hash/ZIP audit and PowerShell AST parsing; no launcher scripts executed."
+    },
+    "windows_production_startup": {
+      "version": "0.15.4",
+      "source_commit": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96",
+      "passed": true,
+      "exit": 0,
+      "errors": [],
+      "scope": "Unmodified production executable headless startup, isolated profile. GPU gameplay is covered by the separate native QA summers.",
+      "exe_sha256": "e82b241044347bc35b86bb90f12ebb33d6b0e6ca5e1874cb3358f71c208636c4",
+      "packaged_files_unchanged": true,
+      "command": [
+        "C:\\tmp\\lemonade-v0154-release\\windows\\Lemonade-V0.15.4.exe",
+        "--headless",
+        "--quit-after",
+        "10",
+        "--log-file",
+        "C:\\tmp\\lemonade-v0154-release\\qa\\windows-production-startup\\engine.log"
+      ]
+    },
+    "check_count_note": "Actual main fixture counts are 6814 per platform. The approved description is four characters shorter, and existing screenshot font checks count every visible Label character. No checks were removed; the two rendered description occurrences account for eight fewer character assertions than 6822. Entire platform economic results remain exact.",
+    "errors": [],
+    "issues": [],
+    "execution_conditions": "Isolated APPDATA profiles and disposable headless Edge contexts; ordinary browser untouched. Native gameplay, records restart and onboarding ran sequentially. Independent functional builds, contracts and Web checks overlapped. No release-validation timing is a performance claim.",
+    "commands": [
+      "python -X utf8 tools/build_v0154.py --qa interactive --out C:/tmp/lemonade-v0154-release-qa",
+      "python -X utf8 tools/build_v0154.py --qa strategy --out C:/tmp/lemonade-v0154-release-qa",
+      "python -X utf8 tools/build_v0154.py --qa resident --out C:/tmp/lemonade-v0154-release-qa",
+      "python -X utf8 tools/test_v0154_native.py --exe C:/tmp/lemonade-v0154-release-qa/qa-interactive/windows/Lemonade-V0.15.4-QA.exe --out C:/tmp/lemonade-v0154-release-qa/native",
+      "node tools/test_v0154_web.cjs C:/tmp/lemonade-v0154-release-qa/qa-interactive/web C:/tmp/lemonade-v0154-release-qa/web",
+      "python -X utf8 tools/test_v0153_native.py --exe C:/tmp/lemonade-v0154-release-qa/qa-strategy/windows/Lemonade-V0.15.4-QA.exe --out C:/tmp/lemonade-v0154-release-qa/native-onboarding",
+      "node tools/test_v0153_web.cjs C:/tmp/lemonade-v0154-release-qa/qa-strategy/web C:/tmp/lemonade-v0154-release-qa/web-onboarding",
+      "qa-strategy/windows/Lemonade-V0.15.4-QA.exe --log-file native/restart-engine.log -- native --records-restart-read (APPDATA=native/profile)",
+      "qa-resident/windows/Lemonade-V0.15.4-QA.exe --headless --log-file resident-native-waited-engine.log -- C:/tmp/lemonade-v0154-release-qa/resident-native.json (isolated APPDATA, subprocess waits)",
+      "node tools/test_v0154_resident_replay.cjs C:/tmp/lemonade-v0154-release-qa/qa-resident/web C:/tmp/lemonade-v0154-release-qa/resident-web",
+      "python -X utf8 tools/compare_v0154_resident_replay.py C:/tmp/lemonade-v0154-release-qa/resident-native.json C:/tmp/lemonade-v0154-release-qa/resident-web/result.json --out C:/tmp/lemonade-v0154-release-qa/resident-comparison.json",
+      "Godot --headless --path C:/tmp/lemonade-v0154-release-source --script C:/tmp/lemonade-v0154-release-qa/audit_ui_copy.gd (isolated APPDATA)",
+      "python -X utf8 C:/tmp/lemonade-v0154-release-qa/reduce_release_verification.py"
+    ]
+  },
+  "package_hashes": {
+    "Lemonade-V0.15.4-windows.zip": {
+      "bytes": 56656617,
+      "sha256": "cf6fc604141aeb7d3c2caa54c2bdf03eeb1291254b5a058eb1fee4534986715c"
+    },
+    "Lemonade-V0.15.4-web.zip": {
+      "bytes": 28865467,
+      "sha256": "779de8b995daf8328ca98c8b467bd64fd210b696f9d50a7958cb313cedebb711"
+    }
+  }
+}
