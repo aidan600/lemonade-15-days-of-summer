@@ -96,8 +96,8 @@
     "docs/index.html": "b631dc54b871fe9704eb87e89ad2b15f2a46bd8874cbd3c34538b8f1c651c063",
     "README.md": "5f7cc161833d04709dcc01719acc76ed9141348f1fcad8b0ddbcea288cc8767e"
   },
-  "status": "fresh local release verified; versioned candidate awaits live verification",
-  "current_redirect": "./v0.15.3/",
+  "status": "versioned live game verified; default promotion prepared",
+  "current_redirect": "./v0.15.4/",
   "local_verification": {
     "passed": true,
     "version": "0.15.4",
@@ -533,5 +533,319 @@
       "bytes": 28865467,
       "sha256": "779de8b995daf8328ca98c8b467bd64fd210b696f9d50a7958cb313cedebb711"
     }
+  },
+  "payload_publication_pr": "https://github.com/aidan600/lemonade-15-days-of-summer/pull/9",
+  "payload_merge_commit": "fde1511ed0711f290e18a587a8aa1e6069aee72e",
+  "downloads": "https://github.com/aidan600/lemonade-15-days-of-summer/releases/tag/v0.15.4",
+  "versioned_live_verification": {
+    "target": "https://aidan600.github.io/lemonade-15-days-of-summer/v0.15.4/",
+    "version": "0.15.4",
+    "source_commit": "cabb3ca18241f11ea4e50121e1cfa2dccbe76d96",
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "totalCompletedDays": 36,
+    "summers": [
+      {
+        "style": "LAID_BACK",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "purchaseAttempts": [
+          {
+            "after_day": 4,
+            "button": {
+              "x": 220,
+              "y": 448
+            },
+            "normal_funds_only": true,
+            "advanced": true
+          }
+        ],
+        "buyActionAdvanced": true,
+        "firstPurchaseDay": 5
+      },
+      {
+        "style": "COMPETITIVE",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "purchaseAttempts": [
+          {
+            "after_day": 4,
+            "button": {
+              "x": 220,
+              "y": 448
+            },
+            "normal_funds_only": true,
+            "advanced": true
+          }
+        ],
+        "buyActionAdvanced": true,
+        "firstPurchaseDay": 5
+      },
+      {
+        "style": "CUTTHROAT",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "purchaseAttempts": [
+          {
+            "after_day": 4,
+            "button": {
+              "x": 220,
+              "y": 448
+            },
+            "normal_funds_only": true,
+            "advanced": true
+          }
+        ],
+        "buyActionAdvanced": true,
+        "firstPurchaseDay": 5
+      }
+    ],
+    "purchaseCoverage": [
+      {
+        "style": "LAID_BACK",
+        "buy_action_advanced": true,
+        "manual_inventory_and_count_confirmation_required": true
+      },
+      {
+        "style": "COMPETITIVE",
+        "buy_action_advanced": true,
+        "manual_inventory_and_count_confirmation_required": true
+      },
+      {
+        "style": "CUTTHROAT",
+        "buy_action_advanced": true,
+        "manual_inventory_and_count_confirmation_required": true
+      }
+    ],
+    "sourcePayloadHashesVerified": 11,
+    "hashes": {
+      "GODOT_LICENSE.txt": "7ae231c4b877ac30c39c2a95d0f3ad7548dfaa917c79ad8e4f43c151ebe2312a",
+      "index.apple-touch-icon.png": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5",
+      "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "index.html": "81e69b142f9f5dc2d22d879157571b094f289d468e23d951281ac801c2d3002e",
+      "index.icon.png": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5",
+      "index.js": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "index.pck": "92ca832322cd30a07bedd31296f43419300622406f0774c9284e9e0850d47e17",
+      "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "index.wasm": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "README.txt": "8646c5a751b1d8dd8680a8d74ba09a43aad9a9cddf3e3119a0447ec824832288"
+    },
+    "screens": [
+      "help-regulars.png",
+      "help-retention.png",
+      "loyalty-shop.png",
+      "your-upgrades.png",
+      "laid-back-loyalty-counts.png",
+      "competitive-loyalty-counts.png",
+      "cutthroat-loyalty-counts.png",
+      "summer-complete.png",
+      "day-one-visible-weather.png",
+      "replay-controls.png"
+    ],
+    "visualReview": {
+      "status": "passed",
+      "expectedLoyaltyCopy": "Regulars are considerably more likely to come back to your stand.",
+      "required": [
+        "Exact Shop and Your Upgrades wording and $10 shop price; normal-funds purchase/refusal",
+        "Day 1 forecast plus Morning/Afternoon actual weather are Cloudy/Sunny for all three styles",
+        "Results daily loyalty visits/purchases and Ledger cumulative total agree; zero/refused extra visits are valid",
+        "Help describes home-directed favorite visits, possible refusal, and one additional missed favorite/rival purchase; no obsolete discount explanation",
+        "Speed buttons change selected state without skipping; Skip To Results and View Results labels/actions",
+        "Three normal twelve-day completions and updated records are visibly correct"
+      ],
+      "reviewer": "root visual inspection of actual deployed-candidate screenshots",
+      "verifiedLoyaltyCopy": "Regulars are considerably more likely to come back to your stand.",
+      "shopPriceCents": 1000,
+      "exactShopAndYourUpgradesCopy": true,
+      "helpRetentionVisible": true,
+      "helpAdditionalFavoriteVisitsAndRefusalVisible": true,
+      "obsoleteDiscountLanguageAbsent": true,
+      "loyaltyCounts": {
+        "LAID_BACK": {
+          "firstPurchaseDay": 5,
+          "dailyVisits": [
+            1,
+            2,
+            1,
+            2,
+            3,
+            2,
+            4,
+            4
+          ],
+          "dailyPurchases": [
+            1,
+            1,
+            1,
+            0,
+            2,
+            2,
+            3,
+            3
+          ],
+          "ledgerVisits": 19,
+          "ledgerPurchases": 13,
+          "cashBeforeCents": 5550,
+          "cashAfterCents": 4550
+        },
+        "COMPETITIVE": {
+          "firstPurchaseDay": 5,
+          "dailyVisits": [
+            0,
+            2,
+            4,
+            1,
+            2,
+            3,
+            1,
+            3
+          ],
+          "dailyPurchases": [
+            0,
+            2,
+            2,
+            1,
+            1,
+            2,
+            0,
+            1
+          ],
+          "ledgerVisits": 16,
+          "ledgerPurchases": 9,
+          "cashBeforeCents": 4825,
+          "cashAfterCents": 3825
+        },
+        "CUTTHROAT": {
+          "firstPurchaseDay": 5,
+          "dailyVisits": [
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            3,
+            3
+          ],
+          "dailyPurchases": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "ledgerVisits": 15,
+          "ledgerPurchases": 11,
+          "cashBeforeCents": 7260,
+          "cashAfterCents": 6260
+        }
+      },
+      "screenSha256": {
+        "help-regulars.png": "19f3c9152bbb7dba774fe36931f513840af2eaf1c964a282b53828876e29ab7c",
+        "help-retention.png": "19f3c9152bbb7dba774fe36931f513840af2eaf1c964a282b53828876e29ab7c",
+        "loyalty-shop.png": "7cd49fd0a0c5f437f0b411f5988014fcb1f21acd2c135ce32eba558853007f55",
+        "your-upgrades.png": "f1dbf330f0fa344510f5a4565d5d52abc16f5e4de6051acebcd6245285a33c02",
+        "laid-back-loyalty-counts.png": "ea62abd700b2f77e6f023dc1a4fa0055a30e00fc7d4fcdd44b5f250c796288fa",
+        "competitive-loyalty-counts.png": "138d323d51045114e0202526b6ad3c85e1dcee9b1cd162b755118cc6b0fe0564",
+        "cutthroat-loyalty-counts.png": "617bab0c8445db76f8024d3f84422ee0be1f66ace832107e1c23568eb0a7102f",
+        "summer-complete.png": "7900588f1ebf929b46540a6c782d298c288188079c894496f8a1271e1ce76572",
+        "day-one-visible-weather.png": "c1566d81d558de6b767575a3c9f49f48e0d74b101477dc1a1c24e6e8ce83bba5",
+        "replay-controls.png": "3043911e7175ff8ea45442e845fecc0cdd593ddf23d18cd75d5eb9c0e8a5df44"
+      },
+      "dayOneWeather": {
+        "LAID_BACK": {
+          "forecast": "Sunny",
+          "morning": "Sunny",
+          "afternoon": "Cloudy"
+        },
+        "COMPETITIVE": {
+          "forecast": "Sunny",
+          "morning": "Sunny",
+          "afternoon": "Sunny"
+        },
+        "CUTTHROAT": {
+          "forecast": "Sunny",
+          "morning": "Sunny",
+          "afternoon": "Sunny"
+        }
+      },
+      "replayControls": {
+        "selectedStates": [
+          "SLOW",
+          "PLAY",
+          "FAST"
+        ],
+        "selectionMatchesScreens": true,
+        "noAccidentalSkip": true,
+        "naturalCompletionButton": "VIEW RESULTS",
+        "skipAndViewResultsWorked": true
+      },
+      "noRainyDayOne": true,
+      "recordsAndPreferencesAutomationPassed": true,
+      "reviewedAt": "2026-10-21T04:25:02.593468+00:00"
+    },
+    "webRecordsReset": true,
+    "strategyPreferencePersistence": true,
+    "errors": [],
+    "networkErrors": [],
+    "graphics": {
+      "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+      "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4090 (0x00002684) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    "automationSuccess": true,
+    "success": true,
+    "verified_at": "2026-10-21T04:25:03.023156+00:00"
   }
 }
